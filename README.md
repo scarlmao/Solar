@@ -5,7 +5,7 @@ solar is a multi purpose aio giftcard generator including streaming services, vi
 ```pip install pystyle, requests```
 
 ## Preview
-![preview]([http://url/to/img.png](https://github.com/scarlmao/Solar/blob/main/image.png))
+![preview](https://github.com/scarlmao/Solar/blob/main/image.png)
 
 ## Star History
 
